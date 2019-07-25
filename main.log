@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2019.7.24)  25 JUL 2019 08:23
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2019.7.24)  25 JUL 2019 08:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1369,33 +1369,20 @@ Overfull \hbox (1.05667pt too wide) in paragraph at lines 316--316
 ] [27
 
 ]
-File: task03_01.png Graphic file (type bmp)
-<task03_01.png>
- [28
-
-]
-File: task04_01.png Graphic file (type bmp)
-<task04_01.png>
-
-Overfull \vbox (26.44954pt too high) detected at line 386
+Overfull \vbox (117.11314pt too high) detected at line 445
  []
 
-[29
+[28
+
+] [29
 
 ] [30
 
 ] [31
 
-]
-File: task05_01.png Graphic file (type bmp)
-<task05_01.png>
- [32
+] [32
 
-]
-Overfull \vbox (117.11314pt too high) detected at line 445
- []
-
-[33
+] [33
 
 ] [34
 
@@ -1415,7 +1402,8 @@ Overfull \vbox (117.11314pt too high) detected at line 445
 
 ] [42
 
-] [43
+]
+[43
 
 ] [44
 
@@ -1426,6 +1414,9 @@ Overfull \vbox (117.11314pt too high) detected at line 445
 ] [47
 
 ]
+Overfull \vbox (22.32835pt too high) detected at line 650
+ []
+
 [48
 
 ] [49
@@ -1436,11 +1427,7 @@ Overfull \vbox (117.11314pt too high) detected at line 445
 
 ] [52
 
-]
-Overfull \vbox (22.32835pt too high) detected at line 650
- []
-
-[53
+] [53
 
 ] [54
 
@@ -1450,7 +1437,11 @@ Overfull \vbox (22.32835pt too high) detected at line 650
 
 ] [57
 
-] [58
+]
+Overfull \vbox (138.36217pt too high) detected at line 777
+ []
+
+[58
 
 ] [59
 
@@ -1458,10 +1449,16 @@ Overfull \vbox (22.32835pt too high) detected at line 650
 
 ] [61
 
-] [62
+]
+File: ris_04.png Graphic file (type bmp)
+<ris_04.png>
+ [62
 
 ]
-Overfull \vbox (138.36217pt too high) detected at line 777
+File: ris_05.png Graphic file (type bmp)
+<ris_05.png>
+
+Overfull \vbox (10.90291pt too high) detected at line 824
  []
 
 [63
@@ -1472,19 +1469,9 @@ Overfull \vbox (138.36217pt too high) detected at line 777
 
 ] [66
 
-]
-File: ris_04.png Graphic file (type bmp)
-<ris_04.png>
- [67
+] [67
 
-]
-File: ris_05.png Graphic file (type bmp)
-<ris_05.png>
-
-Overfull \vbox (10.90291pt too high) detected at line 824
- []
-
-[68
+] [68
 
 ] [69
 
@@ -1494,22 +1481,12 @@ Overfull \vbox (10.90291pt too high) detected at line 824
 
 ] [72
 
-] [73
-
-] [74
-
-] [75
-
-] [76
-
-] [77
-
 ]
 File: task06_01.png Graphic file (type bmp)
 <task06_01.png>
- [78
+ [73
 
-] [79
+] [74
 
 ]
 File: task07_01.png Graphic file (type bmp)
@@ -1523,9 +1500,9 @@ Overfull \hbox (62.08359pt too wide) in paragraph at lines 928--928
 Overfull \vbox (68.6063pt too high) detected at line 928
  []
 
-[80
+[75
 
-] [81
+] [76
 
 ]
 File: task07_02.png Graphic file (type bmp)
@@ -1539,6 +1516,24 @@ Overfull \hbox (119.0956pt too wide) in paragraph at lines 939--939
 Overfull \vbox (6.3749pt too high) detected at line 939
  []
 
+[77
+
+] [78
+
+] [79
+
+] [80
+
+] [81
+
+]
+Missing character: There is no δ in font cmmi10!
+Missing character: There is no − in font cmss10!
+Missing character: There is no ∗ in font cmss10!
+
+Overfull \vbox (11.37837pt too high) detected at line 991
+ []
+
 [82
 
 ] [83
@@ -1549,15 +1544,7 @@ Overfull \vbox (6.3749pt too high) detected at line 939
 
 ] [86
 
-]
-Missing character: There is no δ in font cmmi10!
-Missing character: There is no − in font cmss10!
-Missing character: There is no ∗ in font cmss10!
-
-Overfull \vbox (11.37837pt too high) detected at line 991
- []
-
-[87
+] [87
 
 ] [88
 
@@ -1565,21 +1552,11 @@ Overfull \vbox (11.37837pt too high) detected at line 991
 
 ] [90
 
-] [91
-
-] [92
-
-] [93
-
-] [94
-
-] [95
-
 ]
 Missing character: There is no ∗ in font cmss8!
 Missing character: There is no − in font cmss10!
 Missing character: There is no ∗ in font cmss10!
- [96
+ [91
 
 ]
 Missing character: There is no − in font cmss10!
@@ -1590,7 +1567,17 @@ Missing character: There is no ∗ in font cmss8!
 Overfull \vbox (27.7486pt too high) detected at line 1118
  []
 
-[97
+[92
+
+] [93
+
+] [94
+
+] [95
+
+] [96
+
+] [97
 
 ] [98
 
@@ -1608,7 +1595,8 @@ Overfull \vbox (27.7486pt too high) detected at line 1118
 
 ] [105
 
-] [106
+]
+[106
 
 ] [107
 
@@ -1616,20 +1604,9 @@ Overfull \vbox (27.7486pt too high) detected at line 1118
 
 ] [109
 
-]
-[110
+] [110
 
 ] [111
-
-] [112
-
-] [113
-
-] [114
-
-] [115
-
-] [116
 
 ]
 File: task08_01.png Graphic file (type bmp)
@@ -1639,19 +1616,19 @@ Overfull \hbox (25.34698pt too wide) in paragraph at lines 1320--1320
 [][]  
  []
 
-[117
+[112
 
 ]
 File: ris_02.png Graphic file (type bmp)
 <ris_02.png>
- [118
+ [113
 
 ]
 File: ris_03.png Graphic file (type bmp)
 <ris_03.png>
- [119
+ [114
 
-] [120
+] [115
 
 ]
 File: task09_01.png Graphic file (type bmp)
@@ -1660,19 +1637,19 @@ File: task09_01.png Graphic file (type bmp)
 Overfull \vbox (2.15923pt too high) detected at line 1385
  []
 
-[121
+[116
+
+] [117
+
+] [118
+
+] [119
+
+] [120
+
+] [121
 
 ] [122
-
-] [123
-
-] [124
-
-] [125
-
-] [126
-
-] [127
 
 ]
 
@@ -1723,12 +1700,12 @@ Package fontspec Info: Font family 'PTSans(3)' created for font 'PT Sans' with
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [128
+ [123
 
 ]
-[129] [130
+[124] [125
 
-] [131
+] [126
 
 ]
 \tf@nav=\write6
@@ -1748,14 +1725,18 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1507.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 26C03581C540A0685024C480511E5E28.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 35931 strings out of 494154
- 727523 string characters out of 6168411
+ 35919 strings out of 494154
+ 727328 string characters out of 6168411
  812703 words of memory out of 5000000
- 39269 multiletter control sequences out of 15000+600000
+ 39260 multiletter control sequences out of 15000+600000
  539169 words of font info for 82 fonts, out of 8000000 for 9000
  682 hyphenation exceptions out of 8191
  61i,13n,91p,1803b,764s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (131 pages).
+Output written on main.pdf (126 pages).
