@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2019.7.24)  25 JUL 2019 08:25
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2019.7.24)  25 JUL 2019 08:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1341,7 +1341,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ] [19
 
 ]
-Overfull \vbox (1.21344pt too high) detected at line 290
+Overfull \vbox (1.21344pt too high) detected at line 300
  []
 
 [20
@@ -1352,7 +1352,7 @@ Overfull \vbox (1.21344pt too high) detected at line 290
 File: ris_01.png Graphic file (type bmp)
 <ris_01.png>
 
-Overfull \hbox (1.05667pt too wide) in paragraph at lines 316--316
+Overfull \hbox (1.05667pt too wide) in paragraph at lines 326--326
 [][]  
  []
 
@@ -1369,7 +1369,7 @@ Overfull \hbox (1.05667pt too wide) in paragraph at lines 316--316
 ] [27
 
 ]
-Overfull \vbox (117.11314pt too high) detected at line 445
+Overfull \vbox (117.11314pt too high) detected at line 455
  []
 
 [28
@@ -1414,7 +1414,7 @@ Overfull \vbox (117.11314pt too high) detected at line 445
 ] [47
 
 ]
-Overfull \vbox (22.32835pt too high) detected at line 650
+Overfull \vbox (22.32835pt too high) detected at line 660
  []
 
 [48
@@ -1438,7 +1438,7 @@ Overfull \vbox (22.32835pt too high) detected at line 650
 ] [57
 
 ]
-Overfull \vbox (138.36217pt too high) detected at line 777
+Overfull \vbox (138.36217pt too high) detected at line 787
  []
 
 [58
@@ -1458,7 +1458,7 @@ File: ris_04.png Graphic file (type bmp)
 File: ris_05.png Graphic file (type bmp)
 <ris_05.png>
 
-Overfull \vbox (10.90291pt too high) detected at line 824
+Overfull \vbox (10.90291pt too high) detected at line 834
  []
 
 [63
@@ -1492,12 +1492,12 @@ File: task06_01.png Graphic file (type bmp)
 File: task07_01.png Graphic file (type bmp)
 <task07_01.png>
 
-Overfull \hbox (62.08359pt too wide) in paragraph at lines 928--928
+Overfull \hbox (62.08359pt too wide) in paragraph at lines 938--938
 [][]  
  []
 
 
-Overfull \vbox (68.6063pt too high) detected at line 928
+Overfull \vbox (68.6063pt too high) detected at line 938
  []
 
 [75
@@ -1508,12 +1508,12 @@ Overfull \vbox (68.6063pt too high) detected at line 928
 File: task07_02.png Graphic file (type bmp)
 <task07_02.png>
 
-Overfull \hbox (119.0956pt too wide) in paragraph at lines 939--939
+Overfull \hbox (119.0956pt too wide) in paragraph at lines 949--949
 [][]  
  []
 
 
-Overfull \vbox (6.3749pt too high) detected at line 939
+Overfull \vbox (6.3749pt too high) detected at line 949
  []
 
 [77
@@ -1531,7 +1531,7 @@ Missing character: There is no δ in font cmmi10!
 Missing character: There is no − in font cmss10!
 Missing character: There is no ∗ in font cmss10!
 
-Overfull \vbox (11.37837pt too high) detected at line 991
+Overfull \vbox (11.37837pt too high) detected at line 1001
  []
 
 [82
@@ -1564,7 +1564,7 @@ Missing character: There is no ∗ in font cmss8!
 Missing character: There is no − in font cmss10!
 Missing character: There is no ∗ in font cmss8!
 
-Overfull \vbox (27.7486pt too high) detected at line 1118
+Overfull \vbox (27.7486pt too high) detected at line 1128
  []
 
 [92
@@ -1612,7 +1612,7 @@ Overfull \vbox (27.7486pt too high) detected at line 1118
 File: task08_01.png Graphic file (type bmp)
 <task08_01.png>
 
-Overfull \hbox (25.34698pt too wide) in paragraph at lines 1320--1320
+Overfull \hbox (25.34698pt too wide) in paragraph at lines 1330--1330
 [][]  
  []
 
@@ -1634,7 +1634,7 @@ File: ris_03.png Graphic file (type bmp)
 File: task09_01.png Graphic file (type bmp)
 <task09_01.png>
 
-Overfull \vbox (2.15923pt too high) detected at line 1385
+Overfull \vbox (2.15923pt too high) detected at line 1395
  []
 
 [116
@@ -1717,24 +1717,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 \tf@snm=\write8
 \openout8 = `main.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1507.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1507.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1517.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1517.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1507.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1507.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1517.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1517.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 26C03581C540A0685024C480511E5E28.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 35919 strings out of 494154
- 727328 string characters out of 6168411
- 812703 words of memory out of 5000000
- 39260 multiletter control sequences out of 15000+600000
+ 35909 strings out of 494154
+ 727238 string characters out of 6168411
+ 812563 words of memory out of 5000000
+ 39250 multiletter control sequences out of 15000+600000
  539169 words of font info for 82 fonts, out of 8000000 for 9000
  682 hyphenation exceptions out of 8191
  61i,13n,91p,1803b,764s stack positions out of 5000i,500n,10000p,200000b,80000s
